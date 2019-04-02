@@ -7,3 +7,6 @@
 [submodule "pack/myplugins/start/vim-airline"]
 	path = pack/myplugins/start/vim-airline
 	url = https://github.com/vim-airline/vim-airline
+[submodule "pack/myplugins/start/surround"]
+	path = pack/myplugins/start/surround
+	url = https://tpope.io/vim/surround.git
