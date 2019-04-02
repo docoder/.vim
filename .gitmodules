@@ -16,3 +16,12 @@
 [submodule "pack/myplugins/start/ctrlp.vim"]
 	path = pack/myplugins/start/ctrlp.vim
 	url = https://github.com/ctrlpvim/ctrlp.vim.git
+[submodule "pack/myplugins/opt/onedark.vim"]
+	path = pack/myplugins/opt/onedark.vim
+	url = https://github.com/joshdick/onedark.vim.git
+[submodule "pack/myplugins/start/vim-polyglot"]
+	path = pack/myplugins/start/vim-polyglot
+	url = https://github.com/sheerun/vim-polyglot
+[submodule "pack/myplugins/start/vim-styled-components"]
+	path = pack/myplugins/start/vim-styled-components
+	url = https://github.com/styled-components/vim-styled-components
