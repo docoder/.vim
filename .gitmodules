@@ -1,3 +1,6 @@
 [submodule "pack/myplugins/start/ale"]
 	path = pack/myplugins/start/ale
 	url = https://github.com/w0rp/ale.git
+[submodule "pack/myplugins/start/nerdtree"]
+	path = pack/myplugins/start/nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
