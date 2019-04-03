@@ -25,3 +25,6 @@
 [submodule "pack/myplugins/start/vim-styled-components"]
 	path = pack/myplugins/start/vim-styled-components
 	url = https://github.com/styled-components/vim-styled-components
+[submodule "pack/myplugins/start/commentary"]
+	path = pack/myplugins/start/commentary
+	url = https://tpope.io/vim/commentary.git
