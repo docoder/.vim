@@ -51,8 +51,9 @@ set linebreak
 set textwidth=500
 set wrap
 
-" Make backspace work as you would expect
-set backspace   =indent,eol,start  
+" Configure backspace so it acts as it should act
+set backspace=eol,start,indent
+set whichwrap+=<,>,h,l
 
 " Switch between buffers without having to save first.
 set hidden
@@ -105,8 +106,9 @@ set noswapfile
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 " Enable syntax highlighting
-syntax enable 
+syntax on 
 
+" Enable dark background
 set background=dark
 
 set guifont=Dank\ Mono:h18
