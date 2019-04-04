@@ -111,7 +111,7 @@ syntax on
 " Enable dark background
 set background=dark
 
-set guifont=Dank\ Mono:h18
+set guifont=DroidSansMono\ Nerd\ Font\ Mono:h18
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => Helper functions

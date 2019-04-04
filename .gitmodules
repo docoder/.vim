@@ -28,3 +28,18 @@
 [submodule "pack/myplugins/start/commentary"]
 	path = pack/myplugins/start/commentary
 	url = https://tpope.io/vim/commentary.git
+[submodule "pack/myplugins/start/vim-devicons"]
+	path = pack/myplugins/start/vim-devicons
+	url = https://github.com/ryanoasis/vim-devicons
+[submodule "pack/myplugins/start/tlib_vim"]
+	path = pack/myplugins/start/tlib_vim
+	url = https://github.com/tomtom/tlib_vim.git
+[submodule "pack/myplugins/start/vim-addon-mw-utils"]
+	path = pack/myplugins/start/vim-addon-mw-utils
+	url = https://github.com/MarcWeber/vim-addon-mw-utils.git
+[submodule "pack/myplugins/start/vim-snipmate"]
+	path = pack/myplugins/start/vim-snipmate
+	url = https://github.com/garbas/vim-snipmate.git
+[submodule "pack/myplugins/start/vim-snippets"]
+	path = pack/myplugins/start/vim-snippets
+	url = https://github.com/honza/vim-snippets.git
