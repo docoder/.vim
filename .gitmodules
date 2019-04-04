@@ -40,3 +40,6 @@
 [submodule "pack/myplugins/start/vim-snippets"]
 	path = pack/myplugins/start/vim-snippets
 	url = https://github.com/honza/vim-snippets.git
+[submodule "pack/myplugins/start/vim-styled-components"]
+	path = pack/myplugins/start/vim-styled-components
+	url = https://github.com/styled-components/vim-styled-components

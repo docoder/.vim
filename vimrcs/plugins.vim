@@ -2,12 +2,14 @@
 """"""""""""""""""""""""""""""
 " => ale
 """"""""""""""""""""""""""""""
-
-let g:ale_linter_aliases = {'jsx': ['css', 'javascript']}
-let g:ale_linters = {'jsx': ['stylelint', 'eslint']}
-
+let g:jsx_ext_required = 0 " Allow JSX in normal JS files
 let g:ale_sign_error = '✗'
 let g:ale_sign_warning = '⚡'
+
+" let g:ale_linters = {
+" \  'javascript': ['stylelint', 'eslint'],
+" \  'css': ['stylelint', 'eslint'],
+" \}
 
 let g:airline_powerline_fonts = 1
 " show errors or warnings in my statusline
@@ -21,6 +23,7 @@ let g:ale_fixers = {
 
 " Enable completion where available.
 let g:ale_completion_enabled = 2
+let g:ale_completion_delay = 10
 
 
 """"""""""""""""""""""""""""""

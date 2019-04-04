@@ -13,11 +13,6 @@ au FileType javascript imap <c-a> alert();<esc>hi
 au FileType javascript inoremap <buffer> $r return 
 au FileType javascript inoremap <buffer> $f // --- PH<esc>FP2xi
 
-augroup FiletypeGroup
-    autocmd!
-    au BufNewFile,BufRead *.jsx set filetype=javascript.jsx
-augroup END
-
 function! JavaScriptFold() 
     setl foldmethod=syntax
     setl foldlevelstart=1
